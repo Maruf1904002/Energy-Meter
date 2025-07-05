@@ -35,7 +35,7 @@ This project is an IoT-based smart energy monitoring system built using **ESP32*
 
 ## 💡 Author
 
-Maruf Ahmed 
+**Maruf Ahmed**  
 Department of Electronics & Telecommunication Engineering  
 Rajshahi University of Engineering & Technology (RUET)
 
